@@ -1,0 +1,99 @@
+2025-01-28 23:39:49,157 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-28 23:39:49,174 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-28 23:39:49,197 - werkzeug - INFO -  * Restarting with stat
+2025-01-28 23:39:50,322 - werkzeug - WARNING -  * Debugger is active!
+2025-01-28 23:39:50,369 - werkzeug - INFO -  * Debugger PIN: 827-704-190
+2025-01-28 23:40:04,389 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2025 23:40:04] "GET / HTTP/1.1" 200 -
+2025-01-28 23:40:05,944 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2025 23:40:05] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__18f32508_6b04_47b2_9fb3_4ceabc9e4c2a__0 HTTP/1.1[0m" 404 -
+2025-01-28 23:40:06,121 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2025 23:40:06] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__a1e4c193_aa27_4ed4_b48d_b85d4f8013be__1 HTTP/1.1[0m" 404 -
+2025-01-28 23:40:06,235 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2025 23:40:06] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__1db6923b_6575_4de9_862f_80b52287d996__2 HTTP/1.1[0m" 404 -
+2025-01-28 23:40:06,500 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2025 23:40:06] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__667c038b_60ed_4c04_aed9_4b3341e6cff8__3 HTTP/1.1[0m" 404 -
+2025-01-28 23:40:06,667 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2025 23:40:06] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__d9611806_373f_44cf_91c0_b2545b0f0e81__4 HTTP/1.1[0m" 404 -
+2025-01-28 23:40:06,760 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2025 23:40:06] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__7c650d99_9ef9_410e_9361_ae4aa2e9eb5c__5 HTTP/1.1[0m" 404 -
+2025-01-28 23:40:14,080 - werkzeug - INFO - 127.0.0.1 - - [28/Jan/2025 23:40:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-29 00:19:33,808 - root - ERROR - Error: (1054, "Unknown column 'password_hash' in 'field list'")
+2025-01-29 00:19:33,810 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 00:19:33] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2025-01-29 00:27:36,870 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 00:27:37,354 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 00:27:46,856 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 00:27:46,877 - werkzeug - INFO -  * Debugger PIN: 827-704-190
+2025-01-29 00:27:56,176 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 00:27:56,505 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 00:27:58,310 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 00:27:58,341 - werkzeug - INFO -  * Debugger PIN: 827-704-190
+2025-01-29 00:30:22,736 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 00:30:22] "GET /test_db HTTP/1.1" 200 -
+2025-01-29 00:34:02,128 - root - ERROR - Error: (1054, "Unknown column 'password_hash' in 'field list'")
+2025-01-29 00:34:02,130 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 00:34:02] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2025-01-29 00:46:56,231 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 00:46:56,362 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 00:46:59,389 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 00:46:59,441 - werkzeug - INFO -  * Debugger PIN: 827-704-190
+2025-01-29 00:48:39,247 - root - INFO - User testuser registered successfully
+2025-01-29 00:48:39,462 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 00:48:39] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2025-01-29 00:50:15,940 - root - INFO - User Onesmus registered successfully
+2025-01-29 00:50:16,167 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 00:50:16] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2025-01-29 00:56:35,924 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 00:56:35] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2025-01-29 00:57:04,524 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 00:57:04] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2025-01-29 00:59:56,480 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 00:59:56] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2025-01-29 01:00:01,411 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 01:00:01] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2025-01-29 01:02:47,491 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 01:02:47] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2025-01-29 01:07:29,925 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 01:07:31,212 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 01:18:23,825 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-29 01:18:23,861 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-29 01:18:23,886 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 01:18:24,928 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 01:18:24,951 - werkzeug - INFO -  * Debugger PIN: 827-704-190
+2025-01-29 01:20:14,169 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 01:20:14] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2025-01-29 01:22:51,579 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 01:22:51] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2025-01-29 01:24:01,991 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 01:24:02,280 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 01:24:04,917 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 01:24:04,942 - werkzeug - INFO -  * Debugger PIN: 827-704-190
+2025-01-29 01:24:06,376 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 01:24:06,620 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 01:24:08,654 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 01:24:08,687 - werkzeug - INFO -  * Debugger PIN: 827-704-190
+2025-01-29 01:24:10,615 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 01:24:10,747 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 01:24:12,819 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 01:24:12,848 - werkzeug - INFO -  * Debugger PIN: 827-704-190
+2025-01-29 01:24:17,792 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 01:24:17,889 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 01:33:18,802 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-29 01:33:18,804 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-29 01:33:18,809 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 01:33:19,872 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 01:33:19,900 - werkzeug - INFO -  * Debugger PIN: 827-704-190
+2025-01-29 01:34:06,689 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 01:34:06] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2025-01-29 01:41:33,654 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 01:41:33,757 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 01:48:02,350 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-29 01:48:02,352 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-29 01:48:02,369 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 01:48:03,340 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 01:48:03,363 - werkzeug - INFO -  * Debugger PIN: 827-704-190
+2025-01-29 01:49:39,249 - root - ERROR - Error: (1062, "Duplicate entry 'testuser' for key 'users.username'")
+2025-01-29 01:49:39,251 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 01:49:39] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2025-01-29 01:53:29,882 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 01:53:29] "GET /test_db HTTP/1.1" 200 -
+2025-01-29 01:53:41,335 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 01:53:41] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2025-01-29 01:54:07,695 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 01:54:07] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2025-01-29 02:00:19,502 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 02:00:19] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+2025-01-29 02:05:25,868 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 02:05:25,993 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 02:27:24,100 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-29 02:27:24,106 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-29 02:27:24,121 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 02:27:24,989 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 02:27:25,051 - werkzeug - INFO -  * Debugger PIN: 827-704-190
+2025-01-29 02:37:31,731 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-29 02:37:31,732 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-29 02:37:31,749 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 02:37:32,687 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 02:37:32,706 - werkzeug - INFO -  * Debugger PIN: 827-704-190
