@@ -97,3 +97,926 @@
 2025-01-29 02:37:31,749 - werkzeug - INFO -  * Restarting with stat
 2025-01-29 02:37:32,687 - werkzeug - WARNING -  * Debugger is active!
 2025-01-29 02:37:32,706 - werkzeug - INFO -  * Debugger PIN: 827-704-190
+2025-01-29 03:25:30,081 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-29 03:25:30,222 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-29 03:25:30,265 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 03:25:31,067 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 03:25:31,106 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 17:05:43,655 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-29 17:05:43,667 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-29 17:05:43,683 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 17:05:44,660 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 17:05:44,780 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 17:06:58,100 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 17:06:58] "GET /test_db HTTP/1.1" 200 -
+2025-01-29 17:07:09,998 - root - ERROR - Error: (1062, "Duplicate entry 'testuser' for key 'users.username'")
+2025-01-29 17:07:09,999 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 17:07:09] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2025-01-29 17:07:47,693 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 17:07:47] "POST /login HTTP/1.1" 200 -
+2025-01-29 17:15:49,608 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 17:15:49,906 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 17:48:09,849 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-29 17:48:09,862 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-29 17:48:09,877 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 17:48:10,710 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 17:48:10,761 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 17:52:01,915 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 17:52:02,087 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 18:44:02,768 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-29 18:44:02,781 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-29 18:44:02,796 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 18:44:03,679 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 18:44:03,746 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 18:44:25,167 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 18:44:25] "GET / HTTP/1.1" 200 -
+2025-01-29 18:45:14,632 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 18:45:14] "GET /test_db HTTP/1.1" 200 -
+2025-01-29 18:46:56,049 - root - INFO - User Mbugua registered successfully
+2025-01-29 18:46:56,537 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 18:46:56] "[35m[1mPOST /register HTTP/1.1[0m" 201 -
+2025-01-29 18:48:14,722 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 18:48:14] "POST /login HTTP/1.1" 200 -
+2025-01-29 18:50:10,638 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 18:50:10] "[31m[1mGET /protected?x-access-token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3R1c2VyIiwiZXhwIjoxNzM4MTc2NDk0fQ.LdRayM8nbXBHT3O9TttuBgfxh76KZgYqWjJwadiIoMA HTTP/1.1[0m" 401 -
+2025-01-29 18:54:03,837 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 18:54:03] "[31m[1mGET /protected?x-access-token=Bearer%20eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3R1c2VyIiwiZXhwIjoxNzM4MTc2NDk0fQ.LdRayM8nbXBHT3O9TttuBgfxh76KZgYqWjJwadiIoMA HTTP/1.1[0m" 401 -
+2025-01-29 18:57:14,828 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 18:57:14] "[31m[1mGET /protected HTTP/1.1[0m" 401 -
+2025-01-29 18:59:25,916 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 18:59:25] "GET /protected HTTP/1.1" 200 -
+2025-01-29 19:03:26,267 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 19:03:26] "[33mGET /profile%0A HTTP/1.1[0m" 404 -
+2025-01-29 19:03:47,975 - root - INFO - User testuser profile accessed successfully
+2025-01-29 19:03:47,977 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 19:03:47] "GET /profile HTTP/1.1" 200 -
+2025-01-29 19:06:17,407 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 19:06:17] "[35m[1mGET /subscriptions HTTP/1.1[0m" 500 -
+2025-01-29 19:08:46,751 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 19:08:48,029 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 19:09:05,283 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 19:09:05,372 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 19:09:10,157 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 19:09:10,348 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 19:09:12,411 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 19:09:12,436 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 19:10:15,026 - root - ERROR - Error: (1054, "Unknown column 'bandwith_limit' in 'field list'")
+2025-01-29 19:10:15,027 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 19:10:15] "[35m[1mGET /subscriptions HTTP/1.1[0m" 500 -
+2025-01-29 19:15:21,048 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 19:15:21,191 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 19:15:23,075 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 19:15:23,108 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 19:15:27,814 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 19:15:27,902 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 19:15:29,826 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 19:15:29,910 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 19:15:37,027 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 19:15:37] "GET /subscriptions HTTP/1.1" 200 -
+2025-01-29 19:26:45,816 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 19:26:45,920 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 19:26:47,747 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 19:26:47,768 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 19:26:53,671 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 19:26:53] "GET /subscriptions HTTP/1.1" 200 -
+2025-01-29 19:52:11,281 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 19:52:11,389 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 19:52:13,232 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 19:52:13,264 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 19:52:14,625 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 19:52:14,718 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 19:52:16,081 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 19:52:16,109 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 19:52:17,818 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 19:52:18,093 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 19:52:20,438 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 19:52:20,481 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 19:52:29,480 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 19:52:29,700 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 19:52:31,386 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 19:52:31,416 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 19:52:49,247 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 19:52:49,339 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 19:52:50,544 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 19:52:50,574 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 19:52:53,013 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 19:52:53,086 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 19:52:54,678 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 19:52:54,714 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 19:52:58,309 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 19:52:58,424 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 19:53:00,069 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 19:53:00,103 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 19:53:06,093 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 19:53:06,195 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 19:53:07,492 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 19:53:07,545 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 19:53:19,975 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 19:53:20,081 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 19:53:21,524 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 19:53:21,555 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 19:54:05,935 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 19:54:06,009 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 19:54:06,954 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 19:54:06,981 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 19:54:08,525 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 19:54:08,639 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 19:54:10,445 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 19:54:10,484 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 19:55:11,491 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 19:55:11,622 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 19:55:13,116 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 19:55:13,227 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 19:55:28,269 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 19:55:28,523 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 19:55:30,292 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 19:55:30,315 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 19:55:32,805 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 19:55:32,971 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 19:55:34,365 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 19:55:34,400 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 19:56:11,506 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 19:56:11,591 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 19:56:12,931 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 19:56:12,964 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 19:56:38,276 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 19:56:38,416 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 19:56:39,911 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 19:56:39,959 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 20:39:18,803 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 20:39:19,365 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 20:43:18,129 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-29 20:43:18,130 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-29 20:43:18,159 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 20:43:19,211 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 20:43:19,231 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 20:45:25,630 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 20:45:25] "[31m[1mGET /protected HTTP/1.1[0m" 401 -
+2025-01-29 20:46:23,242 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 20:46:23] "POST /login HTTP/1.1" 200 -
+2025-01-29 20:47:08,851 - root - ERROR - Error: (1146, "Table 'wiman.user_subscriptions' doesn't exist")
+2025-01-29 20:47:08,852 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 20:47:08] "[35m[1mGET /protected HTTP/1.1[0m" 500 -
+2025-01-29 20:48:03,833 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 20:48:03] "GET / HTTP/1.1" 200 -
+2025-01-29 20:48:12,904 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 20:48:12] "[31m[1mGET /profile HTTP/1.1[0m" 401 -
+2025-01-29 20:48:57,519 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 20:48:57] "POST /login HTTP/1.1" 200 -
+2025-01-29 20:52:04,602 - root - ERROR - Error: (1146, "Table 'wiman.user_subscriptions' doesn't exist")
+2025-01-29 20:52:04,604 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 20:52:04] "[35m[1mGET /protected HTTP/1.1[0m" 500 -
+2025-01-29 20:52:38,978 - root - INFO - User Mbugua profile accessed successfully
+2025-01-29 20:52:38,979 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 20:52:38] "GET /profile HTTP/1.1" 200 -
+2025-01-29 20:53:40,209 - root - ERROR - Error: (1146, "Table 'wiman.user_subscriptions' doesn't exist")
+2025-01-29 20:53:40,210 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 20:53:40] "[35m[1mGET /protected HTTP/1.1[0m" 500 -
+2025-01-29 20:58:36,489 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-29 20:58:37,068 - werkzeug - INFO -  * Restarting with stat
+2025-01-29 20:58:41,560 - werkzeug - WARNING -  * Debugger is active!
+2025-01-29 20:58:41,648 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-29 20:59:06,108 - werkzeug - INFO - 127.0.0.1 - - [29/Jan/2025 20:59:06] "[33mGET /protected HTTP/1.1[0m" 404 -
+2025-01-30 22:27:47,735 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 22:27:47,799 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-30 22:27:47,803 - werkzeug - INFO -  * Restarting with stat
+2025-01-30 22:27:48,833 - werkzeug - WARNING -  * Debugger is active!
+2025-01-30 22:27:48,917 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-30 23:51:35,322 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-30 23:51:35,323 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-30 23:51:35,339 - werkzeug - INFO -  * Restarting with stat
+2025-01-30 23:51:36,809 - werkzeug - WARNING -  * Debugger is active!
+2025-01-30 23:51:36,908 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-30 23:55:54,576 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-30 23:55:54,800 - werkzeug - INFO -  * Restarting with stat
+2025-01-30 23:55:54,705 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-30 23:55:56,391 - werkzeug - WARNING -  * Debugger is active!
+2025-01-30 23:55:56,429 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-30 23:55:57,141 - werkzeug - INFO -  * Restarting with stat
+2025-01-30 23:55:58,458 - werkzeug - WARNING -  * Debugger is active!
+2025-01-30 23:55:58,480 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-30 23:56:03,089 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-30 23:56:03,210 - werkzeug - INFO -  * Restarting with stat
+2025-01-30 23:56:03,224 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-30 23:56:03,333 - werkzeug - INFO -  * Restarting with stat
+2025-01-30 23:56:05,302 - werkzeug - WARNING -  * Debugger is active!
+2025-01-30 23:56:05,375 - werkzeug - WARNING -  * Debugger is active!
+2025-01-30 23:56:05,405 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-30 23:56:05,433 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-30 23:56:06,816 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-30 23:56:06,826 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-30 23:56:06,913 - werkzeug - INFO -  * Restarting with stat
+2025-01-30 23:56:06,927 - werkzeug - INFO -  * Restarting with stat
+2025-01-30 23:56:08,267 - werkzeug - WARNING -  * Debugger is active!
+2025-01-30 23:56:08,298 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-30 23:56:08,408 - werkzeug - WARNING -  * Debugger is active!
+2025-01-30 23:56:08,478 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-30 23:56:24,198 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-30 23:56:24,252 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-30 23:56:24,387 - werkzeug - INFO -  * Restarting with stat
+2025-01-30 23:56:24,412 - werkzeug - INFO -  * Restarting with stat
+2025-01-30 23:56:26,375 - werkzeug - WARNING -  * Debugger is active!
+2025-01-30 23:56:26,406 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-30 23:56:26,644 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-30 23:56:26,790 - werkzeug - INFO -  * Restarting with stat
+2025-01-30 23:56:27,170 - werkzeug - WARNING -  * Debugger is active!
+2025-01-30 23:56:27,209 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-30 23:56:28,618 - werkzeug - WARNING -  * Debugger is active!
+2025-01-30 23:56:28,649 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 00:21:41,155 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 00:21:41,236 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 00:21:41,715 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 00:21:41,716 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 00:21:46,221 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 00:21:46,249 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 00:21:46,313 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 00:21:46,327 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 00:21:47,805 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 00:21:47,831 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 00:21:47,942 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 00:21:47,966 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 00:21:50,152 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 00:21:50,193 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 00:21:50,229 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 00:21:50,260 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 00:22:00,995 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 00:22:01,159 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 00:22:01,381 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 00:22:01,433 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 00:22:04,136 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 00:22:04,180 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 00:22:04,318 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 00:22:04,363 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 00:22:05,031 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 00:22:05,240 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 00:22:07,386 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 00:22:07,472 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 12:11:10,054 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 12:11:10,068 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 12:11:10,083 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 12:11:10,980 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 12:11:11,079 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 12:13:48,947 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 12:13:49,233 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 12:17:38,613 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 12:17:38,638 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 12:17:38,641 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 12:17:39,693 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 12:17:39,837 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 12:19:09,184 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 12:19:09,369 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 12:19:13,639 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 12:19:13,710 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 12:19:15,167 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 12:19:15,304 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 12:19:17,544 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 12:19:17,586 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 12:19:29,608 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 12:19:29,989 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 12:19:32,908 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 12:19:32,937 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 12:19:34,220 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 12:19:34,319 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 12:19:36,238 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 12:19:36,284 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 12:19:38,970 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 12:19:39,295 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 12:19:41,276 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 12:19:41,303 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 12:19:42,729 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 12:19:42,862 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 12:19:44,239 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 12:19:44,273 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 12:19:49,197 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 12:19:49,329 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 12:19:51,330 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 12:19:51,365 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 12:22:07,057 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 12:30:40,014 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 12:30:40,015 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 12:30:40,019 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 12:30:41,027 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 12:30:41,053 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 12:30:59,908 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:30:59] "GET / HTTP/1.1" 200 -
+2025-01-31 12:31:01,237 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:31:01] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__c5547e20_0221_4f0d_9a75_32e7701e78b3__0 HTTP/1.1[0m" 404 -
+2025-01-31 12:31:01,381 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:31:01] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__aa3f87ae_0566_40ca_bc82_8d9634c9d348__1 HTTP/1.1[0m" 404 -
+2025-01-31 12:31:01,473 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:31:01] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__7e4276e6_1fdc_44ee_a4c8_f75eecba338e__2 HTTP/1.1[0m" 404 -
+2025-01-31 12:31:01,755 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:31:01] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__efcbcf98_f6a8_417e_bbf9_c1abadd2f984__3 HTTP/1.1[0m" 404 -
+2025-01-31 12:31:01,896 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:31:01] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__35ce28a5_8513_4839_8f0d_3dd51713b415__4 HTTP/1.1[0m" 404 -
+2025-01-31 12:31:02,025 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:31:02] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__ac693cdc_0f25_4c06_9a88_a57f662d02fd__5 HTTP/1.1[0m" 404 -
+2025-01-31 12:31:05,834 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:31:05] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__67d2c388_252f_4c5b_99ad_82399b6d8b62__0 HTTP/1.1[0m" 404 -
+2025-01-31 12:31:06,151 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:31:06] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__2cf57def_b4c1_4a4f_a461_770580ddd794__1 HTTP/1.1[0m" 404 -
+2025-01-31 12:31:06,508 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:31:06] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__d8569863_9a87_4696_89d1_128aeef953fd__2 HTTP/1.1[0m" 404 -
+2025-01-31 12:31:07,083 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:31:07] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__e15c8155_e121_46f2_807f_5947624e300f__0 HTTP/1.1[0m" 404 -
+2025-01-31 12:31:07,268 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:31:07] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__a22e253c_de5b_4425_b109_982c92c11004__1 HTTP/1.1[0m" 404 -
+2025-01-31 12:31:07,566 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:31:07] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__ef15024c_dcb9_46c8_a6f7_61135802db3f__2 HTTP/1.1[0m" 404 -
+2025-01-31 12:31:11,281 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:31:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-01-31 12:32:23,754 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:23] "[31m[1mGET /login HTTP/1.1[0m" 405 -
+2025-01-31 12:32:24,184 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:24] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__48530b26_ff75_45b0_8e74_f54d03520c5e__0 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:24,370 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:24] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__23507d53_e2b3_4b69_9fce_149f90e92cfe__1 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:24,477 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:24] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__8f3096a7_55a9_41a5_8e5a_3b9cabbc5224__2 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:24,680 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:24] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__8f0cf444_467b_40bd_8472_0cb7922c19ee__3 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:24,789 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:24] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__9dc10a8e_cc43_4c7a_b4e7_5dc7210a77de__4 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:24,884 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:24] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__9fd6e43f_ad66_4c02_8ea3_e48af834da81__5 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:26,840 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:26] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__2186d7ff_e536_4786_bed6_038d3353ba00__0 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:26,971 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:26] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__b0a078e2_9b67_4c5f_93fe_b1c04fda944b__1 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:27,080 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:27] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__5ecb5cff_5782_4266_8be0_76ae14b9e239__2 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:27,286 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:27] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__739f2de1_c43c_4dfc_9b3c_ae131c335a33__0 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:27,383 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:27] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__8b0f03ff_9a99_4a65_b285_1f6dabd495a8__1 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:27,455 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:27] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__9a5a547e_e703_4f46_93b7_09b399eb7abc__2 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:27,585 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:27] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__4cbfde73_02da_4a4a_8593_f4b61e67467f__0 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:27,705 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:27] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__786e9ce8_f91f_42f0_a2b7_41e0d1cf11b2__1 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:27,787 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:27] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__f1006002_5c93_41a2_8843_5811b772097d__2 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:27,973 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:27] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__b1ec7882_0d67_414f_a7d2_23c28ff46163__0 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:28,124 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:28] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__4cb89102_7ca8_4009_b272_320797afdc98__1 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:28,125 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:28] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__76e903f1_168a_4797_ba09_d07eeda1f9c0__2 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:28,277 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:28] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__9e2ba1e2_1cba_497e_ae9b_f0805b4598ff__0 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:28,404 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:28] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__5a2af2dd_53ac_40a6_a6da_81caab85f28f__1 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:28,451 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:28] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__471bbd97_a206_4d04_af5d_e801ca6cf636__2 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:28,631 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:28] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__9ca2acbd_04a9_4698_8212_590a5523b7b7__0 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:28,721 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:28] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__82fde606_f1eb_4cd5_9427_ceb3d67f9041__1 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:28,775 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:28] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__30de3d20_f5ea_472b_878d_b17bdb07ce49__2 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:46,597 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:46] "[33mGET /Login HTTP/1.1[0m" 404 -
+2025-01-31 12:32:47,074 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:47] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__689d1f83_4b7c_49c3_8517_3300539da329__0 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:47,251 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:47] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__6c940732_500f_43b6_9cca_52121f2d6433__1 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:47,365 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:47] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__123cc4f6_79a9_450f_9da1_bd307383da6a__2 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:47,595 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:47] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__4aabbe1c_94ce_43b7_8b8b_41bb9596920c__3 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:47,713 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:47] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__67b0cbab_fcbe_4f03_a2c1_070952e6db55__4 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:47,793 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:47] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__3bf62eb7_3222_4992_8cff_332ab13fbe61__5 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:49,525 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:49] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__31938798_329e_4bce_ab68_314ba4b49926__0 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:49,631 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:49] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__4dbaa9f0_a386_48eb_8192_805cc529e590__1 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:49,695 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:49] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__061de3d9_91d6_432e_819c_fc2f478dbd7a__2 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:49,868 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:49] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__9084af80_d1cd_49dd_962e_68cf07718494__0 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:49,950 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:49] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__fbd19a3b_d03b_47a4_944a_36cdbe23a925__1 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:50,023 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:50] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__7568564e_d44e_4efe_8814_71fee825c06d__2 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:50,146 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:50] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__82573cd9_c297_412e_9698_64026ed65ad2__0 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:50,257 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:50] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__7af0a2de_fe04_4228_97b2_8c57555c5997__1 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:50,307 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:50] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__8734d247_68b3_45ad_9e74_4b4e1419563c__2 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:50,509 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:50] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__efbf3794_970a_4152_b346_122cb59a6255__0 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:50,605 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:50] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__07d12b6f_31f6_407f_832c_6a994a547b29__1 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:50,672 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:50] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__e911f17a_e47f_4c3c_9808_29bae2cbecdb__2 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:50,863 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:50] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__33754e6a_5f3f_4c95_95df_d0fe69df9bb4__0 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:50,998 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:50] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__cca69cff_a745_4870_b0af_24e6fb55c6fd__1 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:51,051 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:51] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__6bce803b_a992_4639_8ec8_c867aad77f2e__2 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:51,262 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:51] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__f9e5043c_9c6d_4cf1_b4bf_a465c4cd6446__0 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:51,367 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:51] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__8cc830a9_03a9_40b2_aaae_5fd676d7b961__1 HTTP/1.1[0m" 404 -
+2025-01-31 12:32:51,475 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 12:32:51] "[33mGET /hybridaction/zybTrackerStatisticsAction?data={}&__callback__=__cb__zybTrackerStatisticsAction__5e901362_65c2_4178_825d_4669fd8412d5__2 HTTP/1.1[0m" 404 -
+2025-01-31 12:45:59,319 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 12:45:59,455 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 12:46:02,070 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 12:46:02,094 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 12:54:52,150 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 12:54:52,495 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 12:54:56,454 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 12:54:56,475 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 12:55:04,490 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 12:55:04,634 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 12:55:08,384 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 12:55:08,413 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 12:55:12,228 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 12:55:12,413 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 12:55:14,503 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 12:55:14,527 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 12:55:18,205 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 12:55:18,359 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 12:55:19,798 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 12:55:19,820 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 12:55:22,428 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 12:55:22,754 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 12:55:24,566 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 12:55:24,596 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 12:55:35,051 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 12:55:35,308 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 12:55:37,267 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 12:55:37,297 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 12:55:43,391 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 12:55:43,626 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 12:55:45,418 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 12:55:45,464 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 12:55:47,015 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 12:55:47,096 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 12:55:49,105 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 12:55:49,137 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 12:55:51,935 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 12:55:52,132 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 12:55:54,486 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 12:55:54,520 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 12:55:57,081 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 12:55:57,176 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 12:56:53,601 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 12:56:53,602 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 12:56:53,606 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 12:56:54,763 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 12:56:54,787 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 13:00:21,301 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 13:00:21,774 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 13:00:24,616 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 13:00:24,665 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 13:00:30,205 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 13:00:30,368 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 13:00:32,221 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 13:00:32,249 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 13:00:35,228 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 13:00:35,467 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 13:00:37,288 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 13:00:37,317 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 13:04:01,059 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:11:59,423 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 14:11:59,424 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 14:11:59,428 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:12:00,431 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:12:00,575 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:13:14,405 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:13:14,719 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:13:17,046 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:13:17,100 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:13:20,706 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:13:20,961 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:15:17,712 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 14:15:17,714 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 14:15:17,719 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:15:18,718 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:15:18,738 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:17:08,555 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:17:08,687 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:17:10,290 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:17:10,314 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:17:12,680 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:17:12,757 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:17:13,954 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:17:13,977 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:17:26,738 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:17:26,809 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:18:28,677 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 14:18:28,678 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 14:18:28,683 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:18:29,695 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:18:29,719 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:19:15,095 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:19:15,267 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:19:17,328 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:19:17,361 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:23:08,569 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:23:08,683 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:23:11,658 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:23:11,682 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:23:13,096 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:23:13,218 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:23:15,083 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:23:15,119 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:23:17,727 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:23:17,872 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:23:19,593 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:23:19,803 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:23:22,764 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:23:22,852 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:23:24,059 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:23:24,084 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:23:28,015 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:23:28,343 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:23:30,649 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:23:30,686 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:23:32,049 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:23:32,197 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:23:33,949 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:23:33,979 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:23:37,633 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:23:37,742 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:23:39,253 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:23:39,284 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:23:44,025 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:23:44,107 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:23:45,518 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:23:45,551 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:23:48,109 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:23:48,274 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:23:50,858 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:23:50,891 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:23:55,677 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:23:55,846 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:23:57,683 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:23:57,708 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:23:59,009 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:23:59,126 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:24:01,438 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:24:01,471 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:24:04,133 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:24:04,314 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:24:06,115 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:24:06,175 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:24:12,326 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:24:12,502 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:24:14,987 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:24:15,016 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:24:18,637 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:24:18,893 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:24:21,160 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:24:21,190 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:24:22,490 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:24:22,590 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:24:24,883 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:24:24,917 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:24:33,496 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:24:33,598 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:24:35,778 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:24:35,808 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:24:38,560 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:24:38,822 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:24:40,636 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:24:40,668 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:24:42,067 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:24:42,193 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:24:44,140 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:24:44,370 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:24:45,843 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:24:45,997 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:24:48,037 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:24:48,224 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:24:50,910 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:24:51,052 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:24:52,930 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:24:52,958 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:24:57,685 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:24:57,776 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:24:59,479 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:24:59,508 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:25:04,192 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:25:04,280 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:25:05,540 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:25:05,629 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:25:12,667 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:25:12,771 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:25:15,060 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:25:15,395 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:25:16,939 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:25:17,054 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:25:18,739 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:25:18,773 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:25:21,506 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:25:21,638 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:25:23,665 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:25:23,696 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:25:26,518 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:25:26,788 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:25:30,059 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:25:30,111 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:25:35,105 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:25:35,316 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:25:37,487 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:25:37,514 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:25:37,808 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:25:37,914 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:25:40,508 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:25:40,540 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:25:43,161 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:25:43,240 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:25:44,651 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:25:44,686 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:25:51,315 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:25:51,483 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:25:52,885 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:25:52,926 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:25:56,544 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:25:56,677 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:30:50,081 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 14:30:50,082 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 14:30:50,086 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:30:51,078 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:30:51,101 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:35:17,500 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:35:17,586 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:35:19,344 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:35:19,393 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:35:23,231 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:35:23,336 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:35:24,519 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:35:24,582 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:35:26,066 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:35:26,184 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:35:27,526 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:35:27,561 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:35:30,247 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:35:30,360 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:35:31,729 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:35:31,770 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:37:38,956 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:37:39,058 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:37:40,767 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:37:40,790 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:37:42,236 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:37:42,356 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:38:19,116 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 14:38:19,117 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 14:38:19,124 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:38:20,181 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 14:38:20,212 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 14:39:23,645 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 14:39:23,720 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 14:39:42,773 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 14:39:42,774 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 16:25:48,769 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 16:25:48,852 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 16:25:48,852 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 16:25:49,287 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 16:25:49,300 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 16:25:49,316 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 16:25:50,548 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 16:25:50,551 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 16:25:50,552 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 16:25:50,597 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 16:25:50,664 - werkzeug - INFO -  * Debugger PIN: 622-899-421
+2025-01-31 16:32:33,205 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 16:32:33,345 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 16:32:33,345 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 16:32:37,116 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 16:32:37,144 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 16:32:37,276 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 16:32:45,160 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 16:32:45,247 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 16:32:45,248 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 16:32:45,297 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 16:32:45,423 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 16:55:46,222 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 16:55:46] "POST /login HTTP/1.1" 200 -
+2025-01-31 17:00:56,398 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 17:00:56] "[33mPOST /suscribe HTTP/1.1[0m" 404 -
+2025-01-31 17:01:17,426 - root - ERROR - Error: not all arguments converted during bytes formatting
+2025-01-31 17:01:17,428 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 17:01:17] "[35m[1mPOST /subscribe HTTP/1.1[0m" 500 -
+2025-01-31 17:06:51,200 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 17:06:51] "[31m[1mGET /renew_subscription HTTP/1.1[0m" 405 -
+2025-01-31 17:11:53,031 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 17:13:53,324 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:13:53,344 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:13:53,345 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:13:53,713 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 17:13:53,715 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 17:13:53,729 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 17:13:54,801 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:13:54,804 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:13:54,804 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:13:54,851 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 17:13:54,890 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 17:14:16,636 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 17:14:16] "[35m[1mPOST /subscribe HTTP/1.1[0m" 500 -
+2025-01-31 17:18:37,737 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 17:18:37,894 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 17:18:40,314 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:18:40,319 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:18:40,321 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:18:40,461 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 17:18:40,531 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 17:18:43,104 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 17:18:43,205 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 17:18:45,384 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:18:45,387 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:18:45,387 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:18:45,432 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 17:18:45,455 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 17:19:34,341 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 17:19:34,421 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 17:20:35,087 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:20:35,091 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:20:35,091 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:20:35,147 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 17:20:35,148 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 17:20:35,152 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 17:20:36,250 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:20:36,253 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:20:36,254 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:20:36,305 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 17:20:36,330 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 17:23:29,369 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 17:23:29,505 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 17:23:30,776 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:23:30,779 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:23:30,780 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:23:30,830 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 17:23:30,852 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 17:24:55,306 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 17:24:55,392 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 17:24:56,735 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:24:56,739 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:24:56,742 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:24:56,810 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 17:24:56,850 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 17:25:01,570 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 17:25:01,671 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 17:25:02,797 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:25:02,801 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:25:02,802 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:25:02,866 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 17:25:02,901 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 17:25:05,449 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 17:25:05,725 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 17:26:05,664 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:26:05,667 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:26:05,668 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:26:05,732 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 17:26:05,733 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 17:26:05,738 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 17:26:06,879 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:26:06,882 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:26:06,883 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:26:06,930 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 17:26:06,959 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 17:27:13,657 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 17:27:14,037 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 17:27:15,790 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:27:15,793 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:27:15,794 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:27:15,859 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 17:27:15,900 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 17:29:18,309 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 17:29:18,422 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 17:29:19,944 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:29:19,947 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:29:19,948 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:29:19,989 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 17:29:20,011 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 17:29:30,389 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 17:29:30,825 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 17:29:33,062 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:29:33,065 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:29:33,066 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:29:33,150 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 17:29:33,179 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 17:29:41,547 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 17:29:41,649 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 17:29:43,001 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:29:43,009 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:29:43,011 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:29:43,094 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 17:29:43,122 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 17:29:45,543 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 17:29:45,669 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 17:29:47,177 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:29:47,181 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:29:47,182 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:29:47,264 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 17:29:47,293 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 17:29:49,956 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 17:29:50,069 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 17:29:51,208 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:29:51,225 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:29:51,227 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:29:51,306 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 17:29:51,335 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 17:30:03,873 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 17:30:03,967 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 17:30:05,208 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:30:05,215 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:30:05,220 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:30:05,314 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 17:30:05,361 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 17:32:48,007 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 17:32:48,094 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 17:32:49,860 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:32:49,905 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:32:49,921 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:32:50,086 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 17:32:50,225 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 17:32:53,091 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 17:32:53,207 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 17:32:54,481 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:32:54,485 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:32:54,486 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:32:54,533 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 17:32:54,562 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 17:32:56,063 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 17:32:56,888 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 17:33:46,531 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:33:46,534 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:33:46,535 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:33:46,598 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 17:33:46,599 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 17:33:46,603 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 17:33:47,828 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:33:47,832 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:33:47,833 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:33:47,875 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 17:33:47,897 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 17:36:47,824 - root - ERROR - Error: (1062, "Duplicate entry 'Mbugua' for key 'users.username'")
+2025-01-31 17:36:47,826 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 17:36:47] "[35m[1mPOST /register HTTP/1.1[0m" 500 -
+2025-01-31 17:40:41,944 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 17:40:42,026 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 17:40:43,463 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:40:43,468 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:40:43,469 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:40:43,534 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 17:40:43,564 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 17:40:45,183 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 17:40:45,382 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 17:44:00,086 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:44:00,089 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:44:00,090 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:44:00,150 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-31 17:44:00,151 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-01-31 17:44:00,156 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 17:44:01,199 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 17:44:01,202 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 17:44:01,203 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 17:44:01,244 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 17:44:01,267 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 17:44:10,478 - root - ERROR - MySQL Integrity Error: (1062, "Duplicate entry 'Mbugua' for key 'users.username'")
+2025-01-31 17:44:10,480 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 17:44:10] "[31m[1mPOST /register HTTP/1.1[0m" 409 -
+2025-01-31 17:46:52,772 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 17:46:52] "POST /login HTTP/1.1" 200 -
+2025-01-31 17:47:37,791 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 17:47:37] "[33mGET /protected HTTP/1.1[0m" 404 -
+2025-01-31 17:50:05,129 - root - INFO - User Mbugua Successfully subscribed to Basic
+2025-01-31 17:50:05,130 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 17:50:05] "[35m[1mPOST /subscribe HTTP/1.1[0m" 201 -
+2025-01-31 17:50:54,632 - root - ERROR - Error: can't compare offset-naive and offset-aware datetimes
+2025-01-31 17:50:54,633 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 17:50:54] "[35m[1mGET /protected HTTP/1.1[0m" 500 -
+2025-01-31 17:53:18,328 - werkzeug - INFO - 127.0.0.1 - - [31/Jan/2025 17:53:18] "GET /profile HTTP/1.1" 200 -
+2025-01-31 18:18:01,784 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 18:18:02,051 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 18:18:07,352 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 18:18:07,356 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 18:18:07,385 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 18:18:07,455 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 18:18:07,493 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 18:18:09,078 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 18:18:09,243 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 18:18:10,801 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 18:18:10,805 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 18:18:10,806 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 18:18:10,862 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 18:18:10,902 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 18:18:13,378 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 18:18:13,620 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 18:18:15,544 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 18:18:15,546 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 18:18:15,547 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 18:18:15,590 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 18:18:15,621 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 18:18:33,833 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 18:18:33,925 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 18:18:35,560 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 18:18:35,564 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 18:18:35,565 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 18:18:35,622 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 18:18:35,650 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 18:19:23,515 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 18:19:23,629 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 18:19:25,182 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 18:19:25,185 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 18:19:25,186 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 18:19:25,229 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 18:19:25,274 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 18:25:40,250 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 18:25:40,376 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 18:25:42,996 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 18:25:43,005 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 18:25:43,005 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 18:25:43,110 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 18:25:43,179 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 18:25:51,392 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 18:25:51,643 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 18:25:54,176 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 18:25:54,224 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 18:25:54,237 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 18:25:54,358 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 18:25:54,404 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 18:25:59,733 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 18:25:59,838 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 18:26:01,485 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 18:26:01,488 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 18:26:01,488 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 18:26:01,538 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 18:26:01,570 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 18:26:09,657 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 18:26:09,787 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 18:26:11,598 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 18:26:11,602 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 18:26:11,603 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 18:26:11,647 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 18:26:11,669 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 18:26:12,055 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 18:26:12,292 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 18:26:13,998 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 18:26:14,001 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 18:26:14,002 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 18:26:14,056 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 18:26:14,081 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 18:26:20,057 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 18:26:20,331 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 18:26:22,563 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 18:26:22,568 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 18:26:22,569 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 18:26:22,660 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 18:26:22,708 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 18:26:24,244 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 18:26:24,411 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 18:26:27,238 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 18:26:27,251 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 18:26:27,252 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 18:26:27,392 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 18:26:27,492 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 18:26:38,110 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 18:26:38,228 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 18:26:40,038 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 18:26:40,042 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 18:26:40,066 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 18:26:40,114 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 18:26:40,137 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 18:26:41,578 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 18:26:41,767 - werkzeug - INFO -  * Restarting with stat
+2025-01-31 18:26:44,682 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-01-31 18:26:44,694 - apscheduler.scheduler - INFO - Added job "expired_subscriptions" to job store "default"
+2025-01-31 18:26:44,695 - apscheduler.scheduler - INFO - Scheduler started
+2025-01-31 18:26:44,794 - werkzeug - WARNING -  * Debugger is active!
+2025-01-31 18:26:44,837 - werkzeug - INFO -  * Debugger PIN: 144-003-863
+2025-01-31 18:26:47,394 - werkzeug - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-01-31 18:26:47,562 - werkzeug - INFO -  * Restarting with stat
