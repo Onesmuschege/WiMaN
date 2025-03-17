@@ -1,0 +1,666 @@
+2025-02-20 13:50:49,730 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-20 13:50:49,733 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-20 13:50:49,733 - INFO - Scheduler started
+2025-02-20 13:50:49,792 - INFO - Database connection established!
+2025-02-20 13:50:50,763 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-02-20 13:50:50,764 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-20 13:50:50,767 - INFO -  * Restarting with stat
+2025-02-20 13:50:52,300 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-20 13:50:52,305 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-20 13:50:52,305 - INFO - Scheduler started
+2025-02-20 13:50:52,352 - INFO - Database connection established!
+2025-02-20 13:50:52,384 - WARNING -  * Debugger is active!
+2025-02-20 13:50:52,414 - INFO -  * Debugger PIN: 622-899-421
+2025-02-20 13:51:21,274 - INFO - 127.0.0.1 - - [20/Feb/2025 13:51:21] "GET / HTTP/1.1" 200 -
+2025-02-20 13:53:43,233 - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-02-20 13:53:43,327 - INFO -  * Restarting with stat
+2025-02-20 13:53:46,336 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-20 13:53:46,344 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-20 13:53:46,344 - INFO - Scheduler started
+2025-02-20 13:53:46,605 - INFO - Database connection established!
+2025-02-20 13:53:46,638 - WARNING -  * Debugger is active!
+2025-02-20 13:53:46,664 - INFO -  * Debugger PIN: 622-899-421
+2025-02-20 13:53:51,821 - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-02-20 13:53:51,919 - INFO -  * Restarting with stat
+2025-02-20 13:53:54,389 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-20 13:53:54,392 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-20 13:53:54,392 - INFO - Scheduler started
+2025-02-20 13:53:54,418 - INFO - Database connection established!
+2025-02-20 13:53:54,451 - WARNING -  * Debugger is active!
+2025-02-20 13:53:54,481 - INFO -  * Debugger PIN: 622-899-421
+2025-02-20 13:53:59,640 - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-02-20 13:53:59,752 - INFO -  * Restarting with stat
+2025-02-20 13:54:02,037 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-20 13:54:02,040 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-20 13:54:02,040 - INFO - Scheduler started
+2025-02-20 13:54:02,106 - INFO - Database connection established!
+2025-02-20 13:54:02,132 - WARNING -  * Debugger is active!
+2025-02-20 13:54:02,155 - INFO -  * Debugger PIN: 622-899-421
+2025-02-20 13:54:35,801 - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-02-20 13:54:35,911 - INFO -  * Restarting with stat
+2025-02-20 13:55:02,634 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-20 13:55:02,636 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-20 13:55:02,639 - INFO - Scheduler started
+2025-02-20 13:55:02,677 - INFO - Database connection established!
+2025-02-20 13:57:02,363 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-20 13:57:02,366 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-20 13:57:02,367 - INFO - Scheduler started
+2025-02-20 13:57:02,485 - INFO - Database connection established!
+2025-02-20 13:57:03,607 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-02-20 13:57:03,607 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-20 13:57:09,754 - INFO - 127.0.0.1 - - [20/Feb/2025 13:57:09] "GET / HTTP/1.1" 200 -
+2025-02-20 14:14:37,182 - INFO - 127.0.0.1 - - [20/Feb/2025 14:14:37] "GET / HTTP/1.1" 200 -
+2025-02-20 14:21:59,712 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-20 14:21:59,715 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-20 14:21:59,716 - INFO - Scheduler started
+2025-02-20 14:21:59,759 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-20 14:21:59,759 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-20 14:26:57,944 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-20 14:26:57,946 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-20 14:26:57,946 - INFO - Scheduler started
+2025-02-20 14:26:58,840 - INFO - Database connection established!
+2025-02-20 14:26:59,787 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-02-20 14:26:59,788 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-20 15:27:11,104 - WARNING - Run time of job "expired_subscriptions (trigger: interval[1:00:00], next run at: 2025-02-20 16:26:57 EAT)" was missed by 0:00:12.847290
+2025-02-20 15:51:21,184 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-20 15:51:21,187 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-20 15:51:21,187 - INFO - Scheduler started
+2025-02-20 15:51:22,193 - INFO - Database connection established!
+2025-02-20 15:51:23,314 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-02-20 15:51:23,315 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-20 15:51:36,538 - INFO - 127.0.0.1 - - [20/Feb/2025 15:51:36] "GET / HTTP/1.1" 200 -
+2025-02-20 19:40:01,205 - WARNING - Run time of job "expired_subscriptions (trigger: interval[1:00:00], next run at: 2025-02-20 19:51:21 EAT)" was missed by 0:48:39.945255
+2025-02-21 15:30:19,487 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-21 15:30:19,668 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-21 15:30:19,668 - INFO - Scheduler started
+2025-02-21 15:30:20,323 - INFO - Database connection established!
+2025-02-21 15:30:21,597 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-02-21 15:30:21,597 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-21 15:30:29,348 - INFO - 127.0.0.1 - - [21/Feb/2025 15:30:29] "GET / HTTP/1.1" 200 -
+2025-02-21 15:30:32,413 - ERROR - 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-21 15:30:32,414 - INFO - 127.0.0.1 - - [21/Feb/2025 15:30:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-21 15:34:35,169 - INFO - 127.0.0.1 - - [21/Feb/2025 15:34:35] "POST /auth/login HTTP/1.1" 200 -
+2025-02-21 15:44:56,581 - INFO - 127.0.0.1 - - [21/Feb/2025 15:44:56] "GET / HTTP/1.1" 200 -
+2025-02-21 15:44:56,589 - INFO - 127.0.0.1 - - [21/Feb/2025 15:44:56] "GET / HTTP/1.1" 200 -
+2025-02-21 18:49:07,164 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-21 18:49:07,324 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-21 18:49:07,324 - INFO - Scheduler started
+2025-02-21 18:49:09,855 - INFO - Database connection established!
+2025-02-21 18:49:11,919 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-02-21 18:49:11,919 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-21 18:49:22,042 - INFO - 127.0.0.1 - - [21/Feb/2025 18:49:22] "GET / HTTP/1.1" 200 -
+2025-02-21 19:49:16,407 - WARNING - Run time of job "expired_subscriptions (trigger: interval[1:00:00], next run at: 2025-02-21 20:49:07 EAT)" was missed by 0:00:08.752620
+2025-02-21 20:49:07,514 - INFO - Running job "expired_subscriptions (trigger: interval[1:00:00], next run at: 2025-02-21 21:49:07 EAT)" (scheduled at 2025-02-21 20:49:07.164648+03:00)
+2025-02-21 20:49:19,020 - INFO - Expired subscriptions updated: 0
+2025-02-21 20:49:19,096 - INFO - Job "expired_subscriptions (trigger: interval[1:00:00], next run at: 2025-02-21 21:49:07 EAT)" executed successfully
+2025-02-21 21:49:07,227 - INFO - Running job "expired_subscriptions (trigger: interval[1:00:00], next run at: 2025-02-21 22:49:07 EAT)" (scheduled at 2025-02-21 21:49:07.164648+03:00)
+2025-02-21 21:49:07,812 - INFO - Expired subscriptions updated: 0
+2025-02-21 21:49:07,812 - INFO - Job "expired_subscriptions (trigger: interval[1:00:00], next run at: 2025-02-21 22:49:07 EAT)" executed successfully
+2025-02-22 00:34:50,310 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-22 00:34:50,377 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-22 00:34:50,377 - INFO - Scheduler started
+2025-02-22 00:34:51,393 - INFO - Database connection established!
+2025-02-22 00:34:53,086 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-02-22 00:34:53,086 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-22 01:08:46,938 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-22 01:08:46,953 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-22 01:08:46,953 - INFO - Scheduler started
+2025-02-22 01:08:47,343 - INFO - Database connection established!
+2025-02-22 01:08:48,804 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-02-22 01:08:48,804 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-22 01:09:05,044 - INFO - 127.0.0.1 - - [22/Feb/2025 01:09:05] "GET / HTTP/1.1" 200 -
+2025-02-22 01:09:05,080 - INFO - 127.0.0.1 - - [22/Feb/2025 01:09:05] "GET / HTTP/1.1" 200 -
+2025-02-22 01:20:04,240 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-22 01:20:04,280 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-22 01:20:04,281 - INFO - Scheduler started
+2025-02-22 01:20:05,639 - INFO - Database connection established!
+2025-02-22 01:20:07,010 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-02-22 01:20:07,010 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-22 01:39:21,103 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-22 01:39:21,146 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-22 01:39:21,147 - INFO - Scheduler started
+2025-02-22 01:39:21,633 - INFO - Database connection established!
+2025-02-22 01:39:22,799 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-02-22 01:39:22,799 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-22 01:40:53,936 - INFO - 127.0.0.1 - - [22/Feb/2025 01:40:53] "GET / HTTP/1.1" 200 -
+2025-02-23 01:48:15,362 - DEBUG - Looking up time zone info from registry
+2025-02-23 01:48:15,743 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-23 01:48:15,811 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-23 01:48:15,812 - INFO - Scheduler started
+2025-02-23 01:48:15,813 - DEBUG - Looking for jobs to run
+2025-02-23 01:48:15,814 - DEBUG - Testing database connection
+2025-02-23 01:48:15,814 - DEBUG - Next wakeup is due at 2025-02-23 02:48:15.743406+03:00 (in 3599.928422 seconds)
+2025-02-23 01:48:17,097 - INFO - Database connection established!
+2025-02-23 01:48:17,097 - DEBUG - Database connection closed
+2025-02-23 01:48:17,098 - DEBUG - Flask app is starting on http://127.0.0.1:5000
+2025-02-23 01:48:18,616 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-02-23 01:48:18,616 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-23 14:18:04,417 - DEBUG - Looking up time zone info from registry
+2025-02-23 14:18:04,653 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-23 14:18:04,811 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-23 14:18:04,811 - INFO - Scheduler started
+2025-02-23 14:18:04,898 - DEBUG - Looking for jobs to run
+2025-02-23 14:18:04,898 - DEBUG - Testing database connection
+2025-02-23 14:18:04,899 - DEBUG - Next wakeup is due at 2025-02-23 15:18:04.653473+03:00 (in 3599.754167 seconds)
+2025-02-23 14:18:16,427 - INFO - Database connection established!
+2025-02-23 14:18:16,428 - DEBUG - Database connection closed
+2025-02-23 14:18:16,428 - DEBUG - Flask app is starting on http://127.0.0.1:5000
+2025-02-23 14:18:19,013 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-02-23 14:18:19,013 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-23 15:18:04,754 - DEBUG - Looking for jobs to run
+2025-02-23 15:18:04,806 - INFO - Running job "expired_subscriptions (trigger: interval[1:00:00], next run at: 2025-02-23 15:18:04 EAT)" (scheduled at 2025-02-23 15:18:04.653473+03:00)
+2025-02-23 15:18:04,823 - DEBUG - Next wakeup is due at 2025-02-23 16:18:04.653473+03:00 (in 3599.830181 seconds)
+2025-02-23 15:18:07,429 - INFO - Expired subscriptions updated: 0
+2025-02-23 15:18:07,447 - INFO - Job "expired_subscriptions (trigger: interval[1:00:00], next run at: 2025-02-23 16:18:04 EAT)" executed successfully
+2025-02-23 16:18:04,673 - DEBUG - Looking for jobs to run
+2025-02-23 16:18:04,744 - INFO - Running job "expired_subscriptions (trigger: interval[1:00:00], next run at: 2025-02-23 16:18:04 EAT)" (scheduled at 2025-02-23 16:18:04.653473+03:00)
+2025-02-23 16:18:04,772 - DEBUG - Next wakeup is due at 2025-02-23 17:18:04.653473+03:00 (in 3599.881313 seconds)
+2025-02-23 16:18:04,908 - INFO - Expired subscriptions updated: 0
+2025-02-23 16:18:04,908 - INFO - Job "expired_subscriptions (trigger: interval[1:00:00], next run at: 2025-02-23 17:18:04 EAT)" executed successfully
+2025-02-23 17:18:04,664 - DEBUG - Looking for jobs to run
+2025-02-23 17:18:04,702 - DEBUG - Next wakeup is due at 2025-02-23 18:18:04.653473+03:00 (in 3599.951416 seconds)
+2025-02-23 17:18:04,702 - INFO - Running job "expired_subscriptions (trigger: interval[1:00:00], next run at: 2025-02-23 18:18:04 EAT)" (scheduled at 2025-02-23 17:18:04.653473+03:00)
+2025-02-23 17:18:04,778 - INFO - Expired subscriptions updated: 0
+2025-02-23 17:18:04,778 - INFO - Job "expired_subscriptions (trigger: interval[1:00:00], next run at: 2025-02-23 18:18:04 EAT)" executed successfully
+2025-02-23 18:18:04,750 - DEBUG - Looking for jobs to run
+2025-02-23 18:18:04,819 - DEBUG - Next wakeup is due at 2025-02-23 19:18:04.653473+03:00 (in 3599.834125 seconds)
+2025-02-23 18:18:04,849 - INFO - Running job "expired_subscriptions (trigger: interval[1:00:00], next run at: 2025-02-23 19:18:04 EAT)" (scheduled at 2025-02-23 18:18:04.653473+03:00)
+2025-02-23 18:18:05,698 - INFO - Expired subscriptions updated: 0
+2025-02-23 18:18:05,698 - INFO - Job "expired_subscriptions (trigger: interval[1:00:00], next run at: 2025-02-23 19:18:04 EAT)" executed successfully
+2025-02-23 19:18:04,785 - DEBUG - Looking for jobs to run
+2025-02-23 19:18:04,790 - DEBUG - Next wakeup is due at 2025-02-23 20:18:04.653473+03:00 (in 3599.862886 seconds)
+2025-02-23 19:18:04,791 - INFO - Running job "expired_subscriptions (trigger: interval[1:00:00], next run at: 2025-02-23 20:18:04 EAT)" (scheduled at 2025-02-23 19:18:04.653473+03:00)
+2025-02-23 19:18:04,993 - INFO - Expired subscriptions updated: 0
+2025-02-23 19:18:04,994 - INFO - Job "expired_subscriptions (trigger: interval[1:00:00], next run at: 2025-02-23 20:18:04 EAT)" executed successfully
+2025-02-23 20:18:04,674 - DEBUG - Looking for jobs to run
+2025-02-23 20:18:04,675 - DEBUG - Next wakeup is due at 2025-02-23 21:18:04.653473+03:00 (in 3599.978357 seconds)
+2025-02-23 20:18:04,694 - INFO - Running job "expired_subscriptions (trigger: interval[1:00:00], next run at: 2025-02-23 21:18:04 EAT)" (scheduled at 2025-02-23 20:18:04.653473+03:00)
+2025-02-23 20:18:04,803 - INFO - Expired subscriptions updated: 0
+2025-02-23 20:18:04,803 - INFO - Job "expired_subscriptions (trigger: interval[1:00:00], next run at: 2025-02-23 21:18:04 EAT)" executed successfully
+2025-02-24 00:15:04,808 - DEBUG - Looking up time zone info from registry
+2025-02-24 00:15:05,118 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-24 00:15:05,273 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-24 00:15:05,273 - INFO - Scheduler started
+2025-02-24 00:15:05,275 - DEBUG - Looking for jobs to run
+2025-02-24 00:15:05,275 - DEBUG - Testing database connection
+2025-02-24 00:15:05,275 - DEBUG - Next wakeup is due at 2025-02-24 12:15:05.117432+03:00 (in 43199.841757 seconds)
+2025-02-24 00:15:06,217 - INFO - Database connection established!
+2025-02-24 00:15:06,217 - DEBUG - Database connection closed
+2025-02-24 00:15:06,225 - DEBUG - Flask app is starting on http://127.0.0.1:5000
+2025-02-24 00:15:12,116 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-02-24 00:15:12,116 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-24 01:16:12,054 - DEBUG - Home route accessed
+2025-02-24 01:16:12,131 - INFO - 127.0.0.1 - - [24/Feb/2025 01:16:12] "GET / HTTP/1.1" 200 -
+2025-02-24 01:16:12,622 - ERROR - 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-24 01:16:12,623 - INFO - 127.0.0.1 - - [24/Feb/2025 01:16:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-24 02:12:44,960 - DEBUG - Looking up time zone info from registry
+2025-02-24 02:12:44,983 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-24 02:12:45,008 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-24 02:12:45,008 - INFO - Scheduler started
+2025-02-24 02:12:45,010 - DEBUG - Looking for jobs to run
+2025-02-24 02:12:45,011 - DEBUG - Next wakeup is due at 2025-02-24 14:12:44.983865+03:00 (in 43199.972639 seconds)
+2025-02-24 02:12:45,011 - DEBUG - Testing database connection
+2025-02-24 02:12:45,444 - INFO - Database connection established!
+2025-02-24 02:12:45,445 - DEBUG - Database connection closed
+2025-02-24 02:12:45,445 - DEBUG - Flask app is starting on http://127.0.0.1:5000
+2025-02-24 02:12:46,674 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-02-24 02:12:46,674 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-24 02:12:57,646 - DEBUG - Home route accessed
+2025-02-24 02:12:57,648 - INFO - 127.0.0.1 - - [24/Feb/2025 02:12:57] "GET / HTTP/1.1" 200 -
+2025-02-24 02:12:59,986 - ERROR - 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-24 02:12:59,987 - INFO - 127.0.0.1 - - [24/Feb/2025 02:12:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-02-24 02:37:45,963 - DEBUG - Looking up time zone info from registry
+2025-02-24 02:37:45,973 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-24 02:37:45,975 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-24 02:37:45,976 - INFO - Scheduler started
+2025-02-24 02:37:45,978 - DEBUG - Looking for jobs to run
+2025-02-24 02:37:45,978 - DEBUG - Testing database connection
+2025-02-24 02:37:45,979 - DEBUG - Next wakeup is due at 2025-02-24 14:37:45.973891+03:00 (in 43199.994004 seconds)
+2025-02-24 02:37:46,037 - INFO - Database connection established!
+2025-02-24 02:37:46,037 - DEBUG - Database connection closed
+2025-02-24 02:37:46,038 - DEBUG - Flask app is starting on http://127.0.0.1:5000
+2025-02-24 02:37:47,124 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-02-24 02:37:47,124 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-24 02:37:57,141 - ERROR - 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-24 02:37:57,143 - INFO - 127.0.0.1 - - [24/Feb/2025 02:37:57] "[33mGET /test HTTP/1.1[0m" 404 -
+2025-02-24 02:40:16,008 - DEBUG - Looking up time zone info from registry
+2025-02-24 02:40:16,030 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-24 02:40:16,032 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-24 02:40:16,033 - INFO - Scheduler started
+2025-02-24 02:40:16,037 - DEBUG - Looking for jobs to run
+2025-02-24 02:40:16,038 - DEBUG - Next wakeup is due at 2025-02-24 14:40:16.029407+03:00 (in 43199.991004 seconds)
+2025-02-24 02:43:29,520 - DEBUG - Looking up time zone info from registry
+2025-02-24 02:43:29,532 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-24 02:43:29,534 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-24 02:43:29,534 - INFO - Scheduler started
+2025-02-24 02:43:29,536 - DEBUG - Looking for jobs to run
+2025-02-24 02:43:29,536 - DEBUG - Testing database connection
+2025-02-24 02:43:29,536 - DEBUG - Next wakeup is due at 2025-02-24 14:43:29.532411+03:00 (in 43199.996002 seconds)
+2025-02-24 02:43:29,582 - INFO - Database connection established!
+2025-02-24 02:43:29,582 - DEBUG - Database connection closed
+2025-02-24 02:43:29,583 - DEBUG - Flask app is starting on http://127.0.0.1:5000
+2025-02-24 02:43:30,533 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-02-24 02:43:30,534 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-24 02:44:21,018 - ERROR - 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-24 02:44:21,020 - INFO - 127.0.0.1 - - [24/Feb/2025 02:44:21] "[33mGET /test HTTP/1.1[0m" 404 -
+2025-02-27 01:58:04,740 - DEBUG - Looking up time zone info from registry
+2025-02-27 01:58:05,928 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-27 01:58:06,254 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-27 01:58:06,254 - INFO - Scheduler started
+2025-02-27 01:58:06,257 - DEBUG - Looking for jobs to run
+2025-02-27 01:58:06,257 - DEBUG - Testing database connection
+2025-02-27 01:58:06,257 - DEBUG - Next wakeup is due at 2025-02-27 13:58:05.928660+03:00 (in 43199.670970 seconds)
+2025-02-27 01:58:33,277 - INFO - Database connection established!
+2025-02-27 01:58:33,277 - DEBUG - Database connection closed
+2025-02-27 01:58:33,278 - DEBUG - Flask app is starting on http://127.0.0.1:5000
+2025-02-27 01:58:37,697 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-02-27 01:58:37,698 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-27 02:56:19,205 - ERROR - Failed to log login attempt: (1146, "Table 'wiman.login_attempts' doesn't exist")
+2025-02-27 02:56:20,026 - INFO - 127.0.0.1 - - [27/Feb/2025 02:56:20] "POST /auth/login HTTP/1.1" 200 -
+2025-02-27 02:57:19,433 - INFO - 127.0.0.1 - - [27/Feb/2025 02:57:19] "[35m[1mGET /users/subscriptions HTTP/1.1[0m" 500 -
+2025-02-27 02:58:05,367 - INFO - 127.0.0.1 - - [27/Feb/2025 02:58:05] "[35m[1mPOST /users/subscribe HTTP/1.1[0m" 201 -
+2025-02-27 03:57:18,109 - ERROR - 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-27 03:57:18,838 - INFO - 127.0.0.1 - - [27/Feb/2025 03:57:18] "[33mGET /api/subscription-plans HTTP/1.1[0m" 404 -
+2025-02-27 04:03:33,561 - ERROR - 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-27 04:03:33,562 - INFO - 127.0.0.1 - - [27/Feb/2025 04:03:33] "[33mGET /api/subscriptions HTTP/1.1[0m" 404 -
+2025-02-27 04:03:36,169 - ERROR - 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-27 04:03:36,193 - INFO - 127.0.0.1 - - [27/Feb/2025 04:03:36] "[33mGET /api/subscriptions HTTP/1.1[0m" 404 -
+2025-02-27 04:04:42,713 - ERROR - 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-02-27 04:04:42,714 - INFO - 127.0.0.1 - - [27/Feb/2025 04:04:42] "[33mGET /api/subscriptions HTTP/1.1[0m" 404 -
+2025-02-27 04:09:01,880 - INFO - 127.0.0.1 - - [27/Feb/2025 04:09:01] "[35m[1mGET /users/subscriptions HTTP/1.1[0m" 500 -
+2025-02-27 04:18:25,431 - INFO - 127.0.0.1 - - [27/Feb/2025 04:18:25] "GET /users/subscriptions HTTP/1.1" 200 -
+2025-02-27 04:34:11,477 - INFO - 127.0.0.1 - - [27/Feb/2025 04:34:11] "GET /users/subscriptions HTTP/1.1" 200 -
+2025-02-27 04:36:24,186 - DEBUG - Looking up time zone info from registry
+2025-02-27 04:36:24,232 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-27 04:36:24,268 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-27 04:36:24,268 - INFO - Scheduler started
+2025-02-27 04:36:24,271 - DEBUG - Looking for jobs to run
+2025-02-27 04:36:24,272 - DEBUG - Testing database connection
+2025-02-27 04:36:24,272 - DEBUG - Next wakeup is due at 2025-02-27 16:36:24.232471+03:00 (in 43199.959823 seconds)
+2025-02-27 04:36:24,332 - INFO - Database connection established!
+2025-02-27 04:36:24,332 - DEBUG - Database connection closed
+2025-02-27 04:36:24,333 - DEBUG - Flask app is starting on http://127.0.0.1:5000
+2025-02-27 04:36:25,600 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-02-27 04:36:25,600 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-27 04:37:40,557 - INFO - 127.0.0.1 - - [27/Feb/2025 04:37:40] "[35m[1mGET /users/subscriptions HTTP/1.1[0m" 500 -
+2025-02-27 04:39:30,616 - DEBUG - Looking up time zone info from registry
+2025-02-27 04:39:30,628 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-27 04:39:30,631 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-27 04:39:30,631 - INFO - Scheduler started
+2025-02-27 04:39:30,632 - DEBUG - Looking for jobs to run
+2025-02-27 04:39:30,633 - DEBUG - Next wakeup is due at 2025-02-27 16:39:30.628773+03:00 (in 43199.995005 seconds)
+2025-02-27 04:39:30,678 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-02-27 04:39:30,679 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-27 04:39:30,684 - INFO -  * Restarting with stat
+2025-02-27 04:39:32,160 - DEBUG - Looking up time zone info from registry
+2025-02-27 04:39:32,177 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-27 04:39:32,181 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-27 04:39:32,181 - INFO - Scheduler started
+2025-02-27 04:39:32,183 - DEBUG - Looking for jobs to run
+2025-02-27 04:39:32,184 - DEBUG - Next wakeup is due at 2025-02-27 16:39:32.176233+03:00 (in 43199.992006 seconds)
+2025-02-27 04:39:32,209 - WARNING -  * Debugger is active!
+2025-02-27 04:39:32,381 - INFO -  * Debugger PIN: 622-899-421
+2025-02-27 04:44:47,860 - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-02-27 04:44:47,999 - INFO -  * Restarting with stat
+2025-02-27 04:44:51,372 - DEBUG - Looking up time zone info from registry
+2025-02-27 04:44:51,389 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-27 04:44:51,409 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-27 04:44:51,411 - INFO - Scheduler started
+2025-02-27 04:44:51,420 - DEBUG - Looking for jobs to run
+2025-02-27 04:44:51,422 - DEBUG - Next wakeup is due at 2025-02-27 16:44:51.388845+03:00 (in 43199.966022 seconds)
+2025-02-27 04:44:51,473 - WARNING -  * Debugger is active!
+2025-02-27 04:44:51,540 - INFO -  * Debugger PIN: 622-899-421
+2025-02-27 04:45:25,284 - INFO -  * Detected change in 'C:\\Users\\chege\\WiMaN\\app.py', reloading
+2025-02-27 04:45:25,418 - INFO -  * Restarting with stat
+2025-02-27 04:45:29,682 - DEBUG - Looking up time zone info from registry
+2025-02-27 04:45:29,697 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-27 04:45:29,699 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-27 04:45:29,700 - INFO - Scheduler started
+2025-02-27 04:45:29,709 - DEBUG - Looking for jobs to run
+2025-02-27 04:45:29,710 - DEBUG - Next wakeup is due at 2025-02-27 16:45:29.697301+03:00 (in 43199.987010 seconds)
+2025-02-27 04:45:29,749 - WARNING -  * Debugger is active!
+2025-02-27 04:45:29,800 - INFO -  * Debugger PIN: 622-899-421
+2025-02-27 04:45:51,450 - INFO - 127.0.0.1 - - [27/Feb/2025 04:45:51] "[35m[1mGET /users/subscriptions HTTP/1.1[0m" 500 -
+2025-02-27 05:38:01,350 - INFO - 127.0.0.1 - - [27/Feb/2025 05:38:01] "[35m[1mGET /users/subscriptions HTTP/1.1[0m" 500 -
+2025-02-27 13:48:48,039 - DEBUG - Looking up time zone info from registry
+2025-02-27 13:48:48,132 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-27 13:48:48,167 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-27 13:48:48,169 - INFO - Scheduler started
+2025-02-27 13:48:48,172 - DEBUG - Looking for jobs to run
+2025-02-27 13:48:48,172 - DEBUG - Testing database connection
+2025-02-27 13:48:48,173 - DEBUG - Next wakeup is due at 2025-02-28 01:48:48.132075+03:00 (in 43199.959002 seconds)
+2025-02-27 13:48:50,135 - INFO - Database connection established!
+2025-02-27 13:48:50,136 - DEBUG - Database connection closed
+2025-02-27 13:48:50,137 - DEBUG - Flask app is starting on http://127.0.0.1:5000
+2025-02-27 13:48:51,654 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-02-27 13:48:51,656 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-27 14:01:02,550 - INFO - 127.0.0.1 - - [27/Feb/2025 14:01:02] "[35m[1mGET /users/subscriptions HTTP/1.1[0m" 500 -
+2025-02-27 15:01:42,065 - DEBUG - Looking up time zone info from registry
+2025-02-27 15:01:42,361 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-27 15:01:42,452 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-27 15:01:42,453 - INFO - Scheduler started
+2025-02-27 15:01:42,455 - DEBUG - Looking for jobs to run
+2025-02-27 15:01:42,455 - DEBUG - Testing database connection
+2025-02-27 15:01:42,456 - DEBUG - Next wakeup is due at 2025-02-28 03:01:42.360420+03:00 (in 43199.904410 seconds)
+2025-02-27 15:01:46,350 - INFO - Database connection established!
+2025-02-27 15:01:46,351 - DEBUG - Database connection closed
+2025-02-27 15:01:46,352 - DEBUG - Flask app is starting on http://127.0.0.1:5000
+2025-02-27 15:01:59,159 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-02-27 15:01:59,160 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-27 16:23:44,595 - INFO - 127.0.0.1 - - [27/Feb/2025 16:23:44] "[35m[1mGET /users/subscriptions HTTP/1.1[0m" 500 -
+2025-02-27 16:24:40,932 - INFO - 127.0.0.1 - - [27/Feb/2025 16:24:40] "[35m[1mGET /users/subscriptions HTTP/1.1[0m" 500 -
+2025-02-27 16:37:17,851 - INFO - 127.0.0.1 - - [27/Feb/2025 16:37:17] "[35m[1mGET /users/subscriptions HTTP/1.1[0m" 500 -
+2025-02-27 16:41:59,072 - INFO - 127.0.0.1 - - [27/Feb/2025 16:41:59] "[35m[1mGET /users/subscriptions HTTP/1.1[0m" 500 -
+2025-02-27 16:42:06,698 - INFO - 127.0.0.1 - - [27/Feb/2025 16:42:06] "[35m[1mGET /users/subscriptions HTTP/1.1[0m" 500 -
+2025-02-27 17:48:02,766 - DEBUG - Looking up time zone info from registry
+2025-02-27 17:48:03,050 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-02-27 17:48:03,086 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-02-27 17:48:03,087 - INFO - Scheduler started
+2025-02-27 17:48:03,089 - DEBUG - Looking for jobs to run
+2025-02-27 17:48:03,089 - DEBUG - Testing database connection
+2025-02-27 17:48:03,089 - DEBUG - Next wakeup is due at 2025-02-28 05:48:03.050743+03:00 (in 43199.960940 seconds)
+2025-02-27 17:48:03,918 - INFO - Database connection established!
+2025-02-27 17:48:03,988 - DEBUG - Database connection closed
+2025-02-27 17:48:03,993 - DEBUG - Flask app is starting on http://127.0.0.1:5000
+2025-02-27 17:48:05,828 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-02-27 17:48:05,866 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-27 17:57:19,816 - INFO - 127.0.0.1 - - [27/Feb/2025 17:57:19] "GET /users/subscriptions HTTP/1.1" 200 -
+2025-02-27 18:17:57,951 - INFO - 127.0.0.1 - - [27/Feb/2025 18:17:57] "GET /users/subscriptions HTTP/1.1" 200 -
+2025-03-02 17:49:08,859 - DEBUG - Looking up time zone info from registry
+2025-03-02 17:49:08,935 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-02 17:49:08,966 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-03-02 17:49:08,967 - INFO - Scheduler started
+2025-03-02 17:49:08,971 - DEBUG - Looking for jobs to run
+2025-03-02 17:49:08,971 - DEBUG - Testing database connection
+2025-03-02 17:49:08,972 - DEBUG - Next wakeup is due at 2025-03-03 05:49:08.935409+03:00 (in 43199.963022 seconds)
+2025-03-02 17:49:11,424 - INFO - Database connection established!
+2025-03-02 17:49:11,427 - DEBUG - Database connection closed
+2025-03-02 17:49:11,433 - DEBUG - Flask app is starting on http://127.0.0.1:5000
+2025-03-02 17:49:12,919 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.44:5000
+2025-03-02 17:49:12,921 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-02 18:02:43,192 - INFO - 127.0.0.1 - - [02/Mar/2025 18:02:43] "[31m[1mPOST /auth/register HTTP/1.1[0m" 400 -
+2025-03-02 18:05:42,716 - INFO - 127.0.0.1 - - [02/Mar/2025 18:05:42] "[31m[1mPOST /auth/register HTTP/1.1[0m" 400 -
+2025-03-02 18:06:14,405 - INFO - 127.0.0.1 - - [02/Mar/2025 18:06:14] "[35m[1mPOST /auth/register HTTP/1.1[0m" 500 -
+2025-03-02 18:13:40,516 - DEBUG - Looking up time zone info from registry
+2025-03-02 18:13:40,624 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-02 18:13:40,644 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-03-02 18:13:40,646 - INFO - Scheduler started
+2025-03-02 18:13:40,655 - DEBUG - Looking for jobs to run
+2025-03-02 18:13:40,656 - DEBUG - Testing database connection
+2025-03-02 18:13:40,664 - DEBUG - Next wakeup is due at 2025-03-03 06:13:40.624482+03:00 (in 43199.959759 seconds)
+2025-03-02 18:13:41,387 - INFO - Database connection established!
+2025-03-02 18:13:41,388 - DEBUG - Database connection closed
+2025-03-02 18:13:41,389 - DEBUG - Flask app is starting on http://127.0.0.1:5000
+2025-03-02 18:13:42,573 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.44:5000
+2025-03-02 18:13:42,575 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-02 18:13:50,635 - INFO - 127.0.0.1 - - [02/Mar/2025 18:13:50] "[35m[1mPOST /auth/register HTTP/1.1[0m" 500 -
+2025-03-02 18:26:42,392 - DEBUG - Looking up time zone info from registry
+2025-03-02 18:26:42,409 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-02 18:26:42,428 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-03-02 18:26:42,429 - INFO - Scheduler started
+2025-03-02 18:26:42,432 - DEBUG - Looking for jobs to run
+2025-03-02 18:26:42,432 - DEBUG - Testing database connection
+2025-03-02 18:26:42,450 - DEBUG - Next wakeup is due at 2025-03-03 06:26:42.408278+03:00 (in 43199.958027 seconds)
+2025-03-02 18:26:42,633 - INFO - Database connection established!
+2025-03-02 18:26:42,654 - DEBUG - Database connection closed
+2025-03-02 18:26:42,678 - DEBUG - Flask app is starting on http://127.0.0.1:5000
+2025-03-02 18:26:43,846 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.44:5000
+2025-03-02 18:26:43,848 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-02 18:26:51,304 - INFO - 127.0.0.1 - - [02/Mar/2025 18:26:51] "[35m[1mPOST /auth/register HTTP/1.1[0m" 500 -
+2025-03-02 18:30:40,235 - DEBUG - Looking up time zone info from registry
+2025-03-02 18:30:40,254 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-02 18:30:40,260 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-03-02 18:30:40,261 - INFO - Scheduler started
+2025-03-02 18:30:40,264 - DEBUG - Looking for jobs to run
+2025-03-02 18:30:40,265 - DEBUG - Testing database connection
+2025-03-02 18:30:40,280 - DEBUG - Next wakeup is due at 2025-03-03 06:30:40.253791+03:00 (in 43199.973018 seconds)
+2025-03-02 18:30:40,385 - INFO - Database connection established!
+2025-03-02 18:30:40,386 - DEBUG - Database connection closed
+2025-03-02 18:30:40,387 - DEBUG - Flask app is starting on http://127.0.0.1:5000
+2025-03-02 18:30:41,314 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.44:5000
+2025-03-02 18:30:41,318 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-02 18:30:50,745 - INFO - 127.0.0.1 - - [02/Mar/2025 18:30:50] "[31m[1mPOST /auth/register HTTP/1.1[0m" 400 -
+2025-03-02 18:31:56,266 - INFO - 127.0.0.1 - - [02/Mar/2025 18:31:56] "[31m[1mPOST /auth/register HTTP/1.1[0m" 400 -
+2025-03-02 19:04:46,341 - DEBUG - Looking up time zone info from registry
+2025-03-02 19:04:46,378 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-02 19:04:46,389 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-03-02 19:04:46,397 - INFO - Scheduler started
+2025-03-02 19:04:46,406 - DEBUG - Looking for jobs to run
+2025-03-02 19:04:46,408 - DEBUG - Testing database connection
+2025-03-02 19:04:46,476 - DEBUG - Next wakeup is due at 2025-03-03 07:04:46.378284+03:00 (in 43199.902011 seconds)
+2025-03-02 19:04:46,623 - INFO - Database connection established!
+2025-03-02 19:04:46,625 - DEBUG - Database connection closed
+2025-03-02 19:04:46,626 - DEBUG - Flask app is starting on http://127.0.0.1:5000
+2025-03-02 19:04:46,729 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.44:5000
+2025-03-02 19:04:46,733 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-02 19:07:02,793 - DEBUG - Home route accessed
+2025-03-02 19:07:02,801 - INFO - 127.0.0.1 - - [02/Mar/2025 19:07:02] "GET / HTTP/1.1" 200 -
+2025-03-02 19:07:06,244 - ERROR - 404 Error: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+2025-03-02 19:07:06,253 - INFO - 127.0.0.1 - - [02/Mar/2025 19:07:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-02 20:30:10,710 - DEBUG - Home route accessed
+2025-03-02 20:30:10,712 - INFO - 127.0.0.1 - - [02/Mar/2025 20:30:10] "GET / HTTP/1.1" 200 -
+2025-03-03 15:52:06,599 - DEBUG - Looking up time zone info from registry
+2025-03-03 15:52:07,058 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-03 15:52:07,339 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-03-03 15:52:07,486 - INFO - Scheduler started
+2025-03-03 15:52:07,719 - DEBUG - Looking for jobs to run
+2025-03-03 15:52:07,720 - DEBUG - Testing database connection
+2025-03-03 15:52:07,891 - DEBUG - Next wakeup is due at 2025-03-04 03:52:07.058336+03:00 (in 43199.166516 seconds)
+2025-03-03 15:52:19,051 - INFO - Database connection established!
+2025-03-03 15:52:19,052 - DEBUG - Database connection closed
+2025-03-03 15:52:19,053 - DEBUG - Flask app is starting on http://127.0.0.1:5000
+2025-03-03 15:52:21,305 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-03-03 15:52:21,307 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-03 16:16:44,582 - INFO - 127.0.0.1 - - [03/Mar/2025 16:16:44] "[31m[1mPOST /auth/register HTTP/1.1[0m" 400 -
+2025-03-03 16:21:38,330 - INFO - 127.0.0.1 - - [03/Mar/2025 16:21:38] "[31m[1mPOST /auth/register HTTP/1.1[0m" 400 -
+2025-03-03 16:22:30,942 - DEBUG - Looking up time zone info from registry
+2025-03-03 16:22:30,980 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-03 16:22:30,999 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-03-03 16:22:31,000 - INFO - Scheduler started
+2025-03-03 16:22:31,002 - DEBUG - Looking for jobs to run
+2025-03-03 16:22:31,003 - DEBUG - Testing database connection
+2025-03-03 16:22:31,004 - DEBUG - Next wakeup is due at 2025-03-04 04:22:30.980506+03:00 (in 43199.976463 seconds)
+2025-03-03 16:22:31,316 - INFO - Database connection established!
+2025-03-03 16:22:31,317 - DEBUG - Database connection closed
+2025-03-03 16:22:31,318 - DEBUG - Flask app is starting on http://127.0.0.1:5000
+2025-03-03 16:22:32,584 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-03-03 16:22:32,585 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-03 16:22:38,478 - INFO - 127.0.0.1 - - [03/Mar/2025 16:22:38] "[35m[1mPOST /auth/register HTTP/1.1[0m" 500 -
+2025-03-03 16:25:41,469 - DEBUG - Looking up time zone info from registry
+2025-03-03 16:25:41,481 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-03 16:25:41,486 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-03-03 16:25:41,487 - INFO - Scheduler started
+2025-03-03 16:25:41,490 - DEBUG - Looking for jobs to run
+2025-03-03 16:25:41,490 - DEBUG - Testing database connection
+2025-03-03 16:25:41,491 - DEBUG - Next wakeup is due at 2025-03-04 04:25:41.481069+03:00 (in 43199.989991 seconds)
+2025-03-03 16:25:42,157 - INFO - Database connection established!
+2025-03-03 16:25:42,158 - DEBUG - Database connection closed
+2025-03-03 16:25:42,159 - DEBUG - Flask app is starting on http://127.0.0.1:5000
+2025-03-03 16:25:43,142 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-03-03 16:25:43,144 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-03 16:26:02,594 - INFO - 127.0.0.1 - - [03/Mar/2025 16:26:02] "[35m[1mPOST /auth/register HTTP/1.1[0m" 500 -
+2025-03-03 16:35:36,111 - ERROR - Failed to send verification email: [Errno 11001] getaddrinfo failed
+2025-03-03 16:35:36,113 - INFO - 127.0.0.1 - - [03/Mar/2025 16:35:36] "[35m[1mPOST /auth/register HTTP/1.1[0m" 201 -
+2025-03-03 17:18:02,627 - INFO - 127.0.0.1 - - [03/Mar/2025 17:18:02] "[31m[1mPOST /auth/login HTTP/1.1[0m" 403 -
+2025-03-03 17:20:32,898 - DEBUG - Looking up time zone info from registry
+2025-03-03 17:20:32,936 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-03 17:20:32,968 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-03-03 17:20:32,969 - INFO - Scheduler started
+2025-03-03 17:20:32,972 - DEBUG - Looking for jobs to run
+2025-03-03 17:20:32,973 - DEBUG - Testing database connection
+2025-03-03 17:20:32,974 - DEBUG - Next wakeup is due at 2025-03-04 05:20:32.935594+03:00 (in 43199.961025 seconds)
+2025-03-03 17:20:33,227 - INFO - Database connection established!
+2025-03-03 17:20:33,228 - DEBUG - Database connection closed
+2025-03-03 17:20:33,229 - DEBUG - Flask app is starting on http://127.0.0.1:5000
+2025-03-03 17:20:34,254 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.44:5000
+2025-03-03 17:20:34,276 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-03 17:24:19,725 - ERROR - Error in login: log_login_attempt() missing 1 required positional argument: 'status'
+2025-03-03 17:24:19,732 - INFO - 127.0.0.1 - - [03/Mar/2025 17:24:19] "[35m[1mPOST /auth/login HTTP/1.1[0m" 500 -
+2025-03-03 17:24:53,720 - DEBUG - Looking up time zone info from registry
+2025-03-03 17:24:53,734 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-03 17:24:53,738 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-03-03 17:24:53,749 - INFO - Scheduler started
+2025-03-03 17:24:53,755 - DEBUG - Looking for jobs to run
+2025-03-03 17:24:53,755 - DEBUG - Testing database connection
+2025-03-03 17:24:53,756 - DEBUG - Next wakeup is due at 2025-03-04 05:24:53.734865+03:00 (in 43199.978012 seconds)
+2025-03-03 17:24:53,830 - INFO - Database connection established!
+2025-03-03 17:24:53,830 - DEBUG - Database connection closed
+2025-03-03 17:24:53,831 - DEBUG - Flask app is starting on http://127.0.0.1:5000
+2025-03-03 17:24:57,906 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.44:5000
+2025-03-03 17:24:57,908 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-03 17:25:01,732 - ERROR - Error in login: log_login_attempt() missing 1 required positional argument: 'status'
+2025-03-03 17:25:01,734 - INFO - 127.0.0.1 - - [03/Mar/2025 17:25:01] "[35m[1mPOST /auth/login HTTP/1.1[0m" 500 -
+2025-03-03 17:40:48,726 - DEBUG - Looking up time zone info from registry
+2025-03-03 17:40:48,739 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-03 17:40:48,741 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-03-03 17:40:48,742 - INFO - Scheduler started
+2025-03-03 17:40:48,745 - DEBUG - Looking for jobs to run
+2025-03-03 17:40:48,745 - DEBUG - Testing database connection
+2025-03-03 17:40:48,745 - DEBUG - Next wakeup is due at 2025-03-04 05:40:48.739705+03:00 (in 43199.994001 seconds)
+2025-03-03 17:40:48,818 - INFO - Database connection established!
+2025-03-03 17:40:48,819 - DEBUG - Database connection closed
+2025-03-03 17:40:48,820 - DEBUG - Flask app is starting on http://127.0.0.1:5000
+2025-03-03 17:40:49,788 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.44:5000
+2025-03-03 17:40:49,789 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-03 17:40:54,602 - ERROR - Error in login: log_login_attempt() missing 1 required positional argument: 'status'
+2025-03-03 17:40:54,604 - INFO - 127.0.0.1 - - [03/Mar/2025 17:40:54] "[35m[1mPOST /auth/login HTTP/1.1[0m" 500 -
+2025-03-03 17:41:03,957 - ERROR - Error in login: log_login_attempt() missing 1 required positional argument: 'status'
+2025-03-03 17:41:03,992 - INFO - 127.0.0.1 - - [03/Mar/2025 17:41:03] "[35m[1mPOST /auth/login HTTP/1.1[0m" 500 -
+2025-03-03 18:17:24,662 - DEBUG - Looking up time zone info from registry
+2025-03-03 18:17:24,674 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-03 18:17:24,678 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-03-03 18:17:24,681 - INFO - Scheduler started
+2025-03-03 18:17:24,684 - DEBUG - Looking for jobs to run
+2025-03-03 18:17:24,684 - DEBUG - Testing database connection
+2025-03-03 18:17:24,685 - DEBUG - Next wakeup is due at 2025-03-04 06:17:24.674310+03:00 (in 43199.989006 seconds)
+2025-03-03 18:17:24,778 - INFO - Database connection established!
+2025-03-03 18:17:24,779 - DEBUG - Database connection closed
+2025-03-03 18:17:24,780 - DEBUG - Flask app is starting on http://127.0.0.1:5000
+2025-03-03 18:17:26,860 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.44:5000
+2025-03-03 18:17:26,861 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-03 18:17:34,112 - INFO - 127.0.0.1 - - [03/Mar/2025 18:17:34] "POST /auth/login HTTP/1.1" 200 -
+2025-03-04 18:12:27,845 - DEBUG - Looking for jobs to run
+2025-03-04 18:12:30,550 - WARNING - Run time of job "expired_subscriptions (trigger: interval[12:00:00], next run at: 2025-03-04 06:17:24 EAT)" was missed by 11:55:05.876337
+2025-03-04 18:12:30,996 - DEBUG - Next wakeup is due at 2025-03-04 18:17:24.674310+03:00 (in 293.746845 seconds)
+2025-03-04 18:17:24,979 - DEBUG - Looking for jobs to run
+2025-03-04 18:17:25,065 - DEBUG - Next wakeup is due at 2025-03-05 06:17:24.674310+03:00 (in 43199.608888 seconds)
+2025-03-04 18:17:25,066 - INFO - Running job "expired_subscriptions (trigger: interval[12:00:00], next run at: 2025-03-05 06:17:24 EAT)" (scheduled at 2025-03-04 18:17:24.674310+03:00)
+2025-03-04 18:17:28,063 - INFO - Running expired_subscriptions job...
+2025-03-04 18:17:29,231 - ERROR - Error in expired_subscriptions: (1054, "Unknown column 'end_date' in 'where clause'")
+2025-03-04 18:17:29,289 - INFO - Job "expired_subscriptions (trigger: interval[12:00:00], next run at: 2025-03-05 06:17:24 EAT)" executed successfully
+2025-03-06 02:27:09,884 - DEBUG - Looking up time zone info from registry
+2025-03-06 02:27:12,281 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-03-06 02:27:12,915 - INFO - Added job "expired_subscriptions" to job store "default"
+2025-03-06 02:27:13,009 - INFO - Scheduler started
+2025-03-06 02:27:13,135 - DEBUG - Looking for jobs to run
+2025-03-06 02:27:13,136 - DEBUG - Testing database connection
+2025-03-06 02:27:13,137 - DEBUG - Next wakeup is due at 2025-03-06 14:27:12.280399+03:00 (in 43199.143954 seconds)
+2025-03-06 02:27:33,055 - INFO - Database connection established!
+2025-03-06 02:27:33,056 - DEBUG - Database connection closed
+2025-03-06 02:27:33,058 - DEBUG - Flask app is starting on http://127.0.0.1:5000
+2025-03-06 02:27:40,310 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.100.24:5000
+2025-03-06 02:27:40,472 - INFO - [33mPress CTRL+C to quit[0m

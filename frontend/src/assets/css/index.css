@@ -1,0 +1,50 @@
+/* Tailwind-based global styles for WIMAN */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+
+@layer base {
+  body {
+    font-family: 'Poppins', sans-serif;
+    @apply bg-gray-100 text-gray-900 dark:bg-gray-900 dark:text-gray-100;
+  }
+}
+
+@layer base {
+  body {
+    @apply font-sans bg-gray-100 text-gray-900 dark:bg-gray-900 dark:text-gray-100;
+  }
+}
+
+@layer components {
+  .container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .btn {
+    @apply inline-block px-4 py-2 text-white font-medium transition rounded-lg;
+  }
+  
+  .btn-primary {
+    @apply bg-blue-600 hover:bg-blue-700;
+  }
+  
+  .btn-secondary {
+    @apply bg-gray-600 hover:bg-gray-700;
+  }
+
+  .btn-danger {
+    @apply bg-red-600 hover:bg-red-700;
+  }
+
+  .card {
+    @apply bg-white shadow-lg rounded-lg p-6 dark:bg-gray-800;
+  }
+
+  .card-header {
+    @apply bg-gray-200 dark:bg-gray-700 p-4 rounded-t-lg;
+  }
+}
